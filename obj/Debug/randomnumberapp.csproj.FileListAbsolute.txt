@@ -1,0 +1,9 @@
+C:\Users\home\source\repos\randomnumberapp\randomnumberapp\bin\Debug\randomnumberapp.exe.config
+C:\Users\home\source\repos\randomnumberapp\randomnumberapp\bin\Debug\randomnumberapp.exe
+C:\Users\home\source\repos\randomnumberapp\randomnumberapp\bin\Debug\randomnumberapp.pdb
+C:\Users\home\source\repos\randomnumberapp\randomnumberapp\obj\Debug\randomnumberapp.csprojAssemblyReference.cache
+C:\Users\home\source\repos\randomnumberapp\randomnumberapp\obj\Debug\randomnumberapp.Form1.resources
+C:\Users\home\source\repos\randomnumberapp\randomnumberapp\obj\Debug\randomnumberapp.Properties.Resources.resources
+C:\Users\home\source\repos\randomnumberapp\randomnumberapp\obj\Debug\randomnumberapp.csproj.GenerateResource.cache
+C:\Users\home\source\repos\randomnumberapp\randomnumberapp\obj\Debug\randomnumberapp.exe
+C:\Users\home\source\repos\randomnumberapp\randomnumberapp\obj\Debug\randomnumberapp.pdb
